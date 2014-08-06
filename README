@@ -1,3 +1,9 @@
+A student project for a Game AI course. We implemented AI for StarCraft using the BWAPI injector.
+
+The AI controls three Terrain Vultures and has them assault a Zerg base using kiting tactics.
+
+-------------------------------------------------------------------------------
+
 --------------------
 | BWAPI 4.0.1 Beta |
 --------------------
