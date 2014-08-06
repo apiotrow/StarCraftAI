@@ -1,0 +1,66 @@
+﻿Build started 11/23/2013 3:00:44 PM.
+Project "C:\Program Files\StarCraft\BWAPI\AIModuleLoader\AIModuleLoader.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Release\AIModuleLoader.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt Source\AIModuleLoader.cpp
+  AIModuleLoader.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\StarCraft\BWAPI\Release\AIModuleLoader.exe" /INCREMENTAL:NO /NOLOGO ../lib/BWAPI.lib ../lib/BWAPIClient.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\AIModuleLoader.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files\StarCraft\BWAPI\Release\AIModuleLoader.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files\StarCraft\BWAPI\Release\AIModuleLoader.lib" /MACHINE:X86 Release\AIModuleLoader.obj
+  Generating code
+  Finished generating code
+BWAPIClient.lib(Client.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(Client.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(GameImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(GameImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(ForceImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(ForceImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(ForceShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(ForceShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(BulletShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(BulletShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(BulletImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(BulletImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(PlayerShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(PlayerShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(PlayerImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(PlayerImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(GameShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(GameShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(RegionImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(RegionImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(UnitImpl.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(UnitImpl.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(UnitShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(UnitShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPIClient.lib(RegionShared.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPIClient.lib(RegionShared.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(AIModule.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(AIModule.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Bulletset.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Bulletset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(BulletType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(BulletType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(BWAPI.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(BWAPI.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Color.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Color.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(DamageType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(DamageType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Error.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Error.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Event.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Event.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(ExplosionType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(ExplosionType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Filters.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Filters.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Forceset.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Forceset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Game.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Game.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(GameType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(GameType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Order.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Order.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Player.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Player.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Playerset.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Playerset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(PlayerType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(PlayerType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Position.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Position.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(PositionUnit.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(PositionUnit.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Race.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Race.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Region.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Region.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Regionset.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Regionset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(TechType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(TechType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Unit.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Unit.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(Unitset.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(Unitset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(UnitCommand.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(UnitCommand.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(UnitCommandType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(UnitCommandType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(UnitSizeType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(UnitSizeType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(UnitType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(UnitType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(UpgradeType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(UpgradeType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+BWAPI.lib(WeaponType.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'BWAPI.lib(WeaponType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Release\vc100.pdb'; linking object as if no debug info
+  AIModuleLoader.vcxproj -> C:\Program Files\StarCraft\BWAPI\Release\AIModuleLoader.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files\StarCraft\BWAPI\Release\AIModuleLoader.exe;#1" /manifest Release\AIModuleLoader.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Release\AIModuleLoader.unsuccessfulbuild".
+  Touching "Release\AIModuleLoader.lastbuildstate".
+Done Building Project "C:\Program Files\StarCraft\BWAPI\AIModuleLoader\AIModuleLoader.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.60

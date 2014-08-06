@@ -1,0 +1,46 @@
+﻿Build started 11/20/2013 10:17:45 PM.
+Project "C:\Program Files\StarCraft\BWAPI\ExampleTournamentModule\ExampleTournamentModule.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\ExampleTournamentModule.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EXAMPLETOURNAMENTMODULE_EXPORTS /D _WINDLL /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Dll.cpp Source\ExampleTournamentModule.cpp
+  Dll.cpp
+  ExampleTournamentModule.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.dll" /INCREMENTAL:NO /NOLOGO ../lib/BWAPId.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ExampleTournamentModule.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.lib" /MACHINE:X86 /DLL Debug\Dll.obj
+  Debug\ExampleTournamentModule.obj
+     Creating library C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.lib and object C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+BWAPId.lib(AIModule.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(AIModule.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(DamageType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(DamageType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Error.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Error.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(ExplosionType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(ExplosionType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Filters.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Filters.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Game.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Game.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Order.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Order.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Player.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Player.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Position.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Position.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(PositionUnit.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(PositionUnit.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Race.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Race.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(TechType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(TechType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Unit.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Unit.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(Unitset.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(Unitset.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(UnitCommand.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(UnitCommand.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(UnitCommandType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(UnitCommandType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(UnitSizeType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(UnitSizeType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(UnitType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(UnitType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(UpgradeType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(UpgradeType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+BWAPId.lib(WeaponType.obj) : warning LNK4099: PDB 'bwapid.pdb' was not found with 'BWAPId.lib(WeaponType.obj)' or at 'C:\Program Files\StarCraft\BWAPI\Debug\bwapid.pdb'; linking object as if no debug info
+  ExampleTournamentModule.vcxproj -> C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.dll
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files\StarCraft\BWAPI\Debug\ExampleTournamentModule.dll;#2" /manifest Debug\ExampleTournamentModule.dll.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Debug\ExampleTournamentModule.unsuccessfulbuild".
+  Touching "Debug\ExampleTournamentModule.lastbuildstate".
+Done Building Project "C:\Program Files\StarCraft\BWAPI\ExampleTournamentModule\ExampleTournamentModule.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.17

@@ -1,0 +1,33 @@
+8/6/2014 10:23:04 AM 2828 Logging started
+8/6/2014 10:23:04 AM 2828 Begin Startup
+8/6/2014 10:23:04 AM 2828 Chaosauncher 0.5.4.4 on NT 5.1.2600 Service Pack 3 at C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Chaoslauncher.exe
+8/6/2014 10:23:04 AM 2828 Load Settings
+8/6/2014 10:23:04 AM 2828 GamePath: C:\Program Files\StarCraft\\
+8/6/2014 10:23:04 AM 2828 Load Plugins
+8/6/2014 10:23:04 AM 2828 AdvLoaderPluginPath: \Plugins\
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\iccscbn.icc
+8/6/2014 10:23:04 AM 2828 Plugin loaded ICCup
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\APMAlert.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded APMAlert (1.16.1)
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded BWAPI Injector (1.16.1) RELEASE
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded BWAPI Injector (1.16.1) DEBUG
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\Chaosplugin.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded Chaosplugin for 1.16.1
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\LatencyChanger.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded LatencyChanger for 1.16.1
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\repfix.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded RepFix
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\RWAPlayer.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded RWAPlayer (1.16.1)
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\RWARecorder.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded RWARecorder (1.16.1)
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\Stormplugin.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded Stormplugin for 1.16.1
+8/6/2014 10:23:04 AM 2828 Loading BWL4-Plugin C:\Program Files\StarCraft\BWAPI\Chaoslauncher\Plugins\wmode.bwl
+8/6/2014 10:23:04 AM 2828 Plugin loaded W-MODE 1.02
+8/6/2014 10:23:04 AM 2828 Load Tools
+8/6/2014 10:23:04 AM 2828 Init GUI
+8/6/2014 10:23:04 AM 2828 Get Starcraftversions
+8/6/2014 10:23:04 AM 2828 Init complete
