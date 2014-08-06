@@ -1,6 +1,14 @@
-A student project for a Game AI course. We implemented AI for StarCraft using the BWAPI injector.
+An implemention AI for StarCraft using the BWAPI injector.
 
-The AI controls three Terrain Vultures and has them assault a Zerg base using kiting tactics.
+A decision tree is used to control three Terrain Vultures, having them assault a Zerg base using kiting tactics.
+
+/ExampleAIModule/ contains the code, with ExampleAIModule.cpp being the main file.
+
+Collaborators:
+     Aaron Piotrowski
+     Ryan Gardner
+     Kevin Meggs
+     Kim Son Nguyen
 
 -------------------------------------------------------------------------------
 
