@@ -1,6 +1,6 @@
-An implemention AI for StarCraft using the BWAPI injector.
+This is a final project for a Game AI class. It's an implemention AI for StarCraft, using some injection software called BWAPI.
 
-A decision tree is used to control three Terrain Vultures, having them assault a Zerg base using kiting tactics.
+The AI uses a decision tree to control three Terrain Vultures, having them assault a Zerg base using kiting tactics.
 
 /ExampleAIModule/ contains the code, with ExampleAIModule.cpp being the main file.
 
